@@ -1,0 +1,20 @@
+.ordem-compra {
+    margin-top:  50px;
+    margin-bottom:  50px;
+}
+
+input.ng-invalid.ng-touched {
+    border-color: red;
+}
+
+select.ng-invalid.ng-touched {
+    border-color: red;
+}
+
+input.ng-valid.ng-touched {
+    border-color: green;
+}
+
+select.ng-valid.ng-touched {
+    border-color: green;
+}
